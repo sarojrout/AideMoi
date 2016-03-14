@@ -1,0 +1,17 @@
+{
+  "name": "AidMoi",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sarojrout/AidMoi",
+  "authors": [
+    "Saroj Rout <sarojkumar.rout@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+   
+}
